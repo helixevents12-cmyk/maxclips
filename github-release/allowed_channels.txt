@@ -1,9 +1,0 @@
-# Channels this clipper is allowed to clip — one Twitch name per line.
-#
-# Only add a streamer once they've said yes (or their posted clip/reuse policy
-# allows it). Note where the permission came from after a '#', e.g.:
-#
-#   somestreamer      # said yes in Discord DM, 17 Nov 2026
-#   anotherone        # "clip & repost freely" in their Twitch About panel
-#
-# clipper.py refuses to run for any channel that isn't listed here.
